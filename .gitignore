@@ -11,3 +11,4 @@ local
 scripts/load_env.sh
 credentials/*
 base64-credential
+.env

@@ -7,5 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "fastapi-cloudauth>=0.4.3",
     "fastapi>=0.115.4",
-    "uvicorn>=0.32.0",
+    "pydantic[email]>=2.9.2",
+    "python-dotenv>=1.0.1",
+    "stytch>=11.8.0",
 ]

@@ -1,0 +1,14 @@
+__pycache__
+.venv
+env
+.vscode
+.mypy_cache
+.pytest_cache
+dist
+local
+*.egg-info
+.coverage
+scripts/load_env.sh
+credentials/*
+base64-credential
+.env
